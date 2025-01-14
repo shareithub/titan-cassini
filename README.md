@@ -1,5 +1,8 @@
 # THIS FOR TITAN CASSINI NODE
 
+# LINK JOIN :
+
+[https://test1.titannet.io](https://test1.titannet.io/intiveRegister?code=AkQArE)
 
 
 COPY THIS CODE :
